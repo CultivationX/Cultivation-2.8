@@ -1,0 +1,58 @@
+{
+  "lang_name": "English",
+  "main": {
+    "title": "Cultivation",
+    "launch_button": "Launch",
+    "gc_enable": "Connect via Grasscutter",
+    "https_enable": "Use HTTPS",
+    "ip_placeholder": "Server Address...",
+    "port_placeholder": "Port...",
+    "files_downloading": "Files Downloading: ",
+    "files_extracting": "Files Extracting: "
+  },
+  "options": {
+    "game_exec": "Set Game Executable",
+    "grasscutter_jar": "Set Grasscutter JAR",
+    "java_path": "Set Custom Java Path",
+    "grasscutter_with_game": "Automatically launch Grasscutter with game",
+    "language": "Select Language",
+    "background": "Set Custom Background (link or image file)",
+    "theme": "Set Theme"
+  },
+  "downloads": {
+    "grasscutter_stable_data": "Download Grasscutter Stable Data",
+    "grasscutter_latest_data": "Download Grasscutter Latest Data",
+    "grasscutter_stable_data_update": "Update Grasscutter Stable Data",
+    "grasscutter_latest_data_update": "Update Grasscutter Latest Data",
+    "grasscutter_stable": "Download Grasscutter Stable",
+    "grasscutter_latest": "Download Grasscutter Latest",
+    "grasscutter_stable_update": "Update Grasscutter Stable",
+    "grasscutter_latest_update": "Update Grasscutter Latest",
+    "resources": "Download Grasscutter Resources"
+  },
+  "download_status": {
+    "downloading": "Downloading",
+    "extracting": "Extracting",
+    "error": "Error",
+    "finished": "Finished",
+    "stopped": "Stopped"
+  },
+  "components": {
+    "select_file": "Select file or folder...",
+    "select_folder": "Select folder...",
+    "download": "Download"
+  },
+  "news": {
+    "latest_commits": "Recent Commits",
+    "latest_version": "Latest Version"
+  },
+  "help": {
+    "port_help_text": "Ensure this is the Dispatch server port, not the Game server port. This is almost always '443'.",
+    "game_help_text": "You do not need to use a separate copy to play with Grasscutter. This is for either downgrading to 2.6 or if you do not have the game installed.",
+    "gc_stable_jar": "Download the current stable Grasscutter build, which includes jar file and data files.",
+    "gc_dev_jar": "Download the latest development Grasscutter build, which includes jar file and data files.",
+    "gc_stable_data": "Download the current stable Grasscutter data files, which does not come with a jar file. This is useful for updating.",
+    "gc_dev_data": "Download the latest development Grasscutter data files, which does not come with a jar file. This is useful for updating.",
+    "resources": "These are also required to run a Grasscutter server. This button will be grey if you have an existing resources folder with contents inside"
+  }
+}
